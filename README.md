@@ -1,7 +1,7 @@
-# RetrofitProguardRules
+# RetrofitProGuardRules
 ProGuard rules for Retrofit shipped as an AAR!
 
-[![Build Status](https://travis-ci.org/Commit451/RetrofitProguardRules.svg?branch=master)](https://travis-ci.org/Commit451/RetrofitProguardRules) [![](https://jitpack.io/v/Commit451/RetrofitProguardRules.svg)](https://jitpack.io/#Commit451/RetrofitProguardRules)
+[![Build Status](https://travis-ci.org/Commit451/RetrofitProGuardRules.svg?branch=master)](https://travis-ci.org/Commit451/RetrofitProGuardRules) [![](https://jitpack.io/v/Commit451/RetrofitProGuardRules.svg)](https://jitpack.io/#Commit451/RetrofitProGuardRules)
 
 # Gradle Dependency
 
@@ -19,7 +19,7 @@ allprojects {
 Then, add the library to your project `build.gradle`
 ```gradle
 dependencies {
-    compile 'com.github.Commit451:RetrofitProguardRules:2.1.0.0'
+    compile 'com.github.Commit451:RetrofitProGuardRules:2.1.0.0'
 }
 ```
 
