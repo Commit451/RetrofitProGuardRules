@@ -1,5 +1,7 @@
-#RetrofitProguardRules
+# RetrofitProguardRules
 ProGuard rules for Retrofit shipped as an AAR!
+
+[![Build Status](https://travis-ci.org/Commit451/RetrofitProguardRules.svg?branch=master)](https://travis-ci.org/Commit451/RetrofitProguardRules) [![](https://jitpack.io/v/Commit451/RetrofitProguardRules.svg)](https://jitpack.io/#Commit451/RetrofitProguardRules)
 
 # Gradle Dependency
 
